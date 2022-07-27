@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Spastic Nerfbag';
+	src: url(../../assets/fonts/SpasticNerfbag.woff2) format('woff2'),
+	url(../../assets/fonts/SpasticNerfbag.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
